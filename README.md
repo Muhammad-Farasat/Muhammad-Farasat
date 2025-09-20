@@ -8,28 +8,43 @@ Big dreamer 🚀 | Lifelong learner 📚 | Building projects that actually matte
 ## ⚡ About Me  
 - 💻 Focused on **MERN stack** (MongoDB, Express, React, Node.js)  
 - 🔍 Exploring **Next.js** & modern backend practices  
-- 🎯 Goal: Land a **high-paying remote dev role** & eventually run my own software house  
 - ✈️ I want to work, travel, and build — all online 🌍  
 
 ---
 
 ## 🛠 Tech Stack  
-- **Frontend:** React, Vite, Tailwind CSS, Redux  
-- **Backend:** Node.js, Express, MongoDB  
+- **Frontend:** React, Vite, Tailwind CSS, Redux  Zuztand
+- **Backend:** Node.js, Express, MongoDB, Drizzle, Postgress
 - **Other:** REST APIs, JWT, Git/GitHub  
 
----
-
-## 📊 My GitHub at a Glance  
-
-![Farasat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
 
 ---
 
-## 🌱 What I've completed:  
-- 🔨 Worked on projects (E-commerce, Blogs, Restaurant app, Chess clone) 
+## 🛠 Skills  
+
+<div align="center">
+
+### ⚡ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### ⚡ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![BetterAuth](https://img.shields.io/badge/BetterAuth-2C2C2C?style=for-the-badge&logo=auth0&logoColor=white)
+
+### ⚡ Tools & Services
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Agora](https://img.shields.io/badge/Agora-099DFD?style=for-the-badge&logo=zoom&logoColor=white)
+![WATI](https://img.shields.io/badge/WATI-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+</div> 
 
 ---
 
